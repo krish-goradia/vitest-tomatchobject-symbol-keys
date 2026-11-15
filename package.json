@@ -1,0 +1,1 @@
+{ "name": "vitest-tomatchobject-symbol-keys", "private": true, "type": "module", "scripts": { "test": "vitest run" }, "devDependencies": { "vitest": "latest" } }
